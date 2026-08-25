@@ -21,6 +21,8 @@ A Python-based mini project developed to manage student information and perform 
 - Manage student data
 
 📂 [View Student Management System](./Student-Management-System)
+📂 [View Banking System](./Banking-System)
+
 
 ---
 
