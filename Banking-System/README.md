@@ -41,5 +41,15 @@ The user can perform different banking operations such as depositing money, with
 2. Open the project folder in VS Code or terminal.
 3. Run the Python file:
 
-```bash
 python banking.py
+
+Learning Outcome
+
+This project helped me understand how Object-Oriented Programming concepts can be used to build a simple real-world application using Python.
+
+Future Improvements
+Add multiple bank accounts
+Add account login/PIN authentication
+Add transaction history
+Add money transfer between accounts
+Store account data using a database
