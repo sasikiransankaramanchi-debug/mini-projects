@@ -1,58 +1,105 @@
-# Mini Projects
+# Mini Projects 
 
-Welcome to my Mini Projects repository! 👋
+Welcome to my Mini Projects repository!
 
-This repository contains the mini projects I develop while learning and improving my programming and software development skills.
+This repository contains practical projects I build while learning programming, databases, and data analysis. Each project helps me strengthen my technical skills and problem-solving abilities.
 
-## 📌 Projects
+## Repository Structure
 
-### 1. Student Management System
+```text
+mini-projects/
+│
+├── Python/
+│   ├── Banking-System/
+│   ├── Student-Management-System/
+│   └── README.md
+│
+├── SQL/
+│   ├── Student-Performance-Analysis/
+│   │   ├── schema.sql
+│   │   ├── insert_data.sql
+│   │   ├── analysis_queries.sql
+│   │   └── README.md
+│   └── README.md
+│
+└── README.md
+```
 
-A Python-based mini project developed to manage student information and perform basic operations on student records.
+## 🐍 Python Projects
 
-**Technologies Used:**
-- Python
+### 1. Banking Management System
+A Python mini project that demonstrates basic banking operations and account management.
 
-**Key Features:**
+**Key Features**
+- Manage account details
+- Deposit and withdraw money
+- Check account balance
+
+**Technologies:** Python
+
+### 2. Student Management System
+A Python mini project for managing student information and records.
+
+**Key Features**
 - Add student details
-- View student details
+- View student records
 - Update student information
 - Delete student records
-- Manage student data
 
-📂 [View Student Management System](./Student-Management-System)
-📂 [View Banking System](./Banking-System)
+**Technologies:** Python
 
+Explore the projects in the [Python folder](./Python/).
 
----
+## 🗄️ SQL Projects
 
-## 🛠️ Technologies
+### 1. Student Performance Analysis
+A MySQL project that analyzes student marks, department performance, and academic results using sample student data.
 
-The projects in this repository may use different technologies as I continue learning, including:
+**Key Analysis**
+- Filter and sort student records
+- Calculate maximum, minimum, and average marks
+- Count students by department
+- Compare department-wise average marks
+- Assign grades using CASE statements
+- Find the highest and second-highest marks
+- Identify students scoring above average
+- Calculate pass and fail counts
+
+**Technologies:** MySQL, MySQL Workbench
+
+**SQL Concepts:** SELECT, WHERE, ORDER BY, DISTINCT, aggregate functions, GROUP BY, HAVING, CASE statements, and subqueries.
+
+Explore the project in the [SQL folder](./SQL/).
+
+## 🛠️ Technologies & Skills
 
 - Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Machine Learning
-- And more
+- SQL and MySQL
+- MySQL Workbench
+- Git and GitHub
+- Problem-solving and logical thinking
 
-## 🎯 Purpose
+## 🎯 Goals
 
-The main purpose of this repository is to:
+- Strengthen programming fundamentals
+- Practice SQL queries and database concepts
+- Build practical projects using Python and SQL
+- Learn data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn
+- Explore Excel, Power BI, and Tableau
+- Develop projects that demonstrate data analysis skills
 
-- Practice programming concepts
-- Build practical mini projects
-- Improve problem-solving skills
-- Learn new technologies
-- Maintain a portfolio of my projects
+## 🚀 Future Projects
 
-## 🚀 More Projects Coming Soon
+I plan to add more SQL projects, Python and SQL integrated projects, and data analysis projects as I continue learning.
 
-I will continue adding new mini projects as I learn and develop new skills.
+## 👨‍💻 About Me
+
+**Sasikiran Sankaramanchi**
+
+B.Tech — Artificial Intelligence and Machine Learning
+
+Interested in Python, SQL, and Data Analytics.
 
 ---
 
-**Developed by Sasikiran**  
-B.Tech – Artificial Intelligence & Machine Learning
+⭐ Thank you for visiting my repository!
